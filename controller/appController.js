@@ -1,5 +1,5 @@
 function home(req, res){
-    res.send("<h1> Home page 1 </h1>")
+    res.send("<h1> Home page yo yo </h1>")
 }
 
 module.exports = home;
